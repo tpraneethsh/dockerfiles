@@ -15,7 +15,7 @@ In this Part we learn
 
 In Terminal
 CMD folder>
-    docker build -t tpraneethsh/cmd:v1 .
+    docker build -t tpraneethsh/cmd:v1 .        (To create Docker image)
     docker ps --no-trunc
     docker run -d tpraneethsh/cmd:v1
     docker ps
