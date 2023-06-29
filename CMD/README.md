@@ -41,5 +41,5 @@ Login to the container
     docker exec -it 6cdf7de6fc6e bash
     cd /usr/share/nginx/html
     echo "hello world" > hello.html
-Open Browser and http://localhost/hello.html
+Open Browser and http://localhost:80/hello.html
     
