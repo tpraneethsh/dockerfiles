@@ -1,3 +1,3 @@
-### RUN
+### FROM
 
-Run instruction we use to install software, packages and other tasks. It runs at the time of image building.
+FROM should be the first instruction in your Dockerfile

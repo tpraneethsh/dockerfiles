@@ -1,12 +1,3 @@
-### CMD
+### RUN
 
-CMD is the instruction which runs the Container
-
-### RUN vs CMD
-
-*RUN command will execute at the time of image creation.
-*CMD command will execute at the time of running container.
-
-
-In Terminal
-RUN folder> docker ps --no-trunc
+Run instruction we use to install software, packages and other tasks. It runs at the time of image building.
